@@ -1,4 +1,6 @@
 *.xcodeproj/
+!BookmarkReader/BookmarkReader.xcodeproj/
+!BookmarkReader/BookmarkReader.xcodeproj/**
 xcuserdata/
 DerivedData/
 build/
